@@ -432,11 +432,11 @@ body.overflow {
 }
 
 .btn.primary {
-    border: 1px solid #D2B6FF;
+    border: 1px solid #fd0909;
 }
 
 .btn.primary:hover {
-    background-color: #D2B6FF;
+    background-color: #e26666;
 }
 
 .btn.secondary {
@@ -560,7 +560,7 @@ body.overflow {
     font-weight: 700;
     letter-spacing: 0.01em;
     text-transform: uppercase;
-    color: #D2B6FF;
+    color: #fd0d0d;
     margin-bottom: 1.1rem;
 }
 
