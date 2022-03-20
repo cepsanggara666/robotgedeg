@@ -635,7 +635,7 @@ body.overflow {
     padding: 1rem 0;
     z-index: 4;
     position: fixed;
-    background-color: rgba(240, 135, 135, 0.6);
+    background-color: #353333be;
     top: 0;
     left: 0;
     width: 100%;
