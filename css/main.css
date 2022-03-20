@@ -440,12 +440,12 @@ body.overflow {
 }
 
 .btn.secondary {
-    border: 1px solid #808fff;
-    color: #808fff;
+    border: 1px solid #f51008;
+    color: #ca5f5f;
 }
 
 .btn.secondary:hover {
-    background-color: #808fff;
+    background-color: #5c0808;
 }
 
 .btn.tertiary {
